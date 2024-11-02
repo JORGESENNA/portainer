@@ -6,9 +6,9 @@ A finalidade do repositório para instalar o Docker e criar containers como port
 🚀 Features
 Instalar o Docker,  e criar aplicações dentro de um contâiner.
 
-✍️ Authors
-[@jsenna ](https://github.com/JORGESENNA)
-[https://www.linkedin.com/in/jorge-henrique-senna-b32a5229/]
+✍️ by
+Github : [@jsenna ](https://github.com/JORGESENNA)
+Linkdin : [https://www.linkedin.com/in/jorge-henrique-senna-b32a5229/]
 
 📚 References
 https://docs.docker.com/engine/install/ubuntu/
